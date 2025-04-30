@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title> Hello!</title></title>
-  </head>
-  <body>
-    Hello, World
-  </body>
-</html>
+Hello % ls
+Hello.html
+Hello % git add hello.html
+Hello % git commit -m "Add Hello.html"
+
